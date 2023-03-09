@@ -1,4 +1,4 @@
-Hi 👋 My name is André Lobo
+André Lobo
 ===========================
 
 Back end | Fullstack Developer
