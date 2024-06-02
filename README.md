@@ -1,4 +1,4 @@
-Certainly! Here’s a more polished and detailed version of your README:
+
 André Lobo
 Back End | Fullstack Developer
 About Me
